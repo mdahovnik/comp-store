@@ -11,4 +11,3 @@ services:
       - main-db:/var/lib/postgresql
 volumes:
   main-db:
-
